@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science**
 
-- 📫 How to reach me **augusto_souza@msn.com**
+- 📫 How to reach me **https://augustosouzac.github.io/**
 
 - ⚡ Fun fact **Vasco da Gama**
 
